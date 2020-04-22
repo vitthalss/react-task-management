@@ -1,4 +1,4 @@
-react-redux task-management.
+**react-redux task-management.**
 
 Run **``` npm i ```** to install dependencies.
 
