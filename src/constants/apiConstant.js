@@ -1,2 +1,2 @@
-const baseURL = 'http://demo1183434.mockable.io/';
+const baseURL = 'https://www.google.com/';
 export default baseURL;
