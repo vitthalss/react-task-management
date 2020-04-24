@@ -16,7 +16,7 @@ class ProjectsContainer extends React.Component {
   render() {
     return (
       <React.Fragment>
-        <MaterialAppBar title={'Your projects'} />
+        <MaterialAppBar title={'TASK MANAGEMENT SYSTEM'} />
         <Projects {...this.props} />
       </React.Fragment>
     );
